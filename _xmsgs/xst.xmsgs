@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="246" delta="new" ><arg fmt="%s" index="1">&quot;project1.v&quot; line 54 </arg>Reference to <arg fmt="%s" index="2">scalar reg &apos;b0&apos;</arg> is not a legal net lvalue
+</msg>
+
+<msg type="error" file="HDLCompilers" num="53" delta="new" ><arg fmt="%s" index="1">&quot;project1.v&quot; line 54 </arg>Illegal left hand side of continuous assign
+</msg>
+
+<msg type="error" file="HDLCompilers" num="246" delta="new" ><arg fmt="%s" index="1">&quot;project1.v&quot; line 55 </arg>Reference to <arg fmt="%s" index="2">scalar reg &apos;b1&apos;</arg> is not a legal net lvalue
+</msg>
+
+<msg type="error" file="HDLCompilers" num="53" delta="new" ><arg fmt="%s" index="1">&quot;project1.v&quot; line 55 </arg>Illegal left hand side of continuous assign
+</msg>
+
+<msg type="error" file="HDLCompilers" num="246" delta="new" ><arg fmt="%s" index="1">&quot;project1.v&quot; line 56 </arg>Reference to <arg fmt="%s" index="2">scalar reg &apos;b2&apos;</arg> is not a legal net lvalue
+</msg>
+
+<msg type="error" file="HDLCompilers" num="53" delta="new" ><arg fmt="%s" index="1">&quot;project1.v&quot; line 56 </arg>Illegal left hand side of continuous assign
+</msg>
+
+<msg type="error" file="HDLCompilers" num="246" delta="new" ><arg fmt="%s" index="1">&quot;project1.v&quot; line 57 </arg>Reference to <arg fmt="%s" index="2">scalar reg &apos;b3&apos;</arg> is not a legal net lvalue
+</msg>
+
+<msg type="error" file="HDLCompilers" num="53" delta="new" ><arg fmt="%s" index="1">&quot;project1.v&quot; line 57 </arg>Illegal left hand side of continuous assign
+</msg>
+
+</messages>
+

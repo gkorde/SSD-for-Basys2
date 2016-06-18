@@ -1,0 +1,239 @@
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc project1.ucf -p xc3s100e-cp132-5 project1.ngc project1.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o project1_map.ncd project1.ngd project1.pcf 
+par -w -intstyle ise -ol high -t 1 project1_map.ncd project1.ncd project1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml project1.twx project1.ncd -o project1.twr project1.pcf -ucf project1.ucf 
+bitgen -intstyle ise -f project1.ut project1.ncd 
+xst -intstyle ise -ifn "F:/ISE/project1/project1.xst" -ofn "F:/ISE/project1/project1.syr" 

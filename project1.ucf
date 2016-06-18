@@ -1,0 +1,42 @@
+NET "clk" LOC = "B8";
+NET "CLK" CLOCK_DEDICATED_ROUTE = FALSE;
+//switches
+NET "s0" LOC = "P11";
+NET "s1" LOC = "L3";
+NET "s2" LOC = "K3";
+NET "s3" LOC = "B4";
+NET "s4" LOC = "G3";
+NET "s5" LOC = "F3";
+NET "s6" LOC = "E2";
+NET "s7" LOC = "N3"; 
+
+//button
+NET "button0" LOC = "A7";
+NET "button1" LOC = "M4";
+NET "button2" LOC = "C11" | CLOCK_DEDICATED_ROUTE = FALSE; 
+NET "button3" LOC = "G12" | CLOCK_DEDICATED_ROUTE = FALSE;
+
+//LED
+NET "led0" LOC = "M5";
+NET "led1" LOC = "M11";
+NET "led2" LOC = "P7";
+NET "led3" LOC = "P6";
+NET "led4" LOC = "N5";
+NET "led5" LOC = "N4";
+NET "led6" LOC = "P4";
+NET "led7" LOC = "G1";
+
+//reg
+NET "op0" LOC = "F12";
+NET "op1" LOC = "J12";
+NET "op2" LOC = "M13";
+NET "op3" LOC = "K14";
+//segments
+NET "SSD<0>" LOC = "L14"; //CA
+NET "SSD<1>" LOC = "H12"; //CB
+NET "SSD<2>" LOC = "N14"; //CC
+NET "SSD<3>" LOC = "N11"; //CD
+NET "SSD<4>" LOC = "P12"; //CE
+NET "SSD<5>" LOC = "L13"; //CF
+NET "SSD<6>" LOC = "M12"; //CG
+
